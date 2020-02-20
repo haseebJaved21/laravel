@@ -1,7 +1,6 @@
 <?php
 
-namespace App\Http;
-
+namespace App\Ht
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
 class Kernel extends HttpKernel
